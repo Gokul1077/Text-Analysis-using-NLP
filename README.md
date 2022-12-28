@@ -1,4 +1,4 @@
-# Text-Analysis-using-NLP
+# Text-Analysis-using-Natural Language Processing
 The objective of this project is to extract textual data articles from the given URL and perform text analysis to compute variables.
 
 Step-1: Data Extraction: Input.xlsx-->For each of the articles, given in the input.xlsx file, extract the article text and save the extracted article in a text file with URL_ID as its file name.
